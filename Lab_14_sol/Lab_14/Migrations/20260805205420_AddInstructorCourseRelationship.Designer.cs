@@ -11,7 +11,7 @@ using StudentPortalConsole;
 namespace StudentPortalConsole.Migrations
 {
     [DbContext(typeof(StudentPortalContext))]
-    [Migration("20260803080137_AddInstructorCourseRelationship")]
+    [Migration("20260805205420_AddInstructorCourseRelationship")]
     partial class AddInstructorCourseRelationship
     {
         /// <inheritdoc />
