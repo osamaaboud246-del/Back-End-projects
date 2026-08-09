@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Lab15_Answers.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentPortalWeb\\Lab15_Answers.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentPortalWeb\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Services\\IOsamaStampService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentPortalWeb\\Services\\IOsamaStampService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Services\\OsamaStampService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentPortalWeb\\Services\\OsamaStampService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentPortalWeb\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentPortalWeb\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Models\\StudentPortalContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentPortalWeb\\Models\\StudentPortalContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentPortalWeb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab15_Answers.md",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Lab15_Answers.md",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\Lab15_Answers.md",
+              "ToolTip": "E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Lab15_Answers.md",
+              "RelativeToolTip": "StudentPortalWeb\\Lab15_Answers.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-08-03T12:01:41.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentPortalWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-03T12:00:41.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentPortalWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T12:00:11.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Program.cs",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\Program.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Program.cs",
+              "RelativeToolTip": "StudentPortalWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T11:59:43.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OsamaStampService.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Services\\OsamaStampService.cs",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\Services\\OsamaStampService.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Services\\OsamaStampService.cs",
+              "RelativeToolTip": "StudentPortalWeb\\Services\\OsamaStampService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T11:59:16.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOsamaStampService.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Services\\IOsamaStampService.cs",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\Services\\IOsamaStampService.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Services\\IOsamaStampService.cs",
+              "RelativeToolTip": "StudentPortalWeb\\Services\\IOsamaStampService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T11:58:17.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentPortalContext.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Models\\StudentPortalContext.cs",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\Models\\StudentPortalContext.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\Models\\StudentPortalContext.cs",
+              "RelativeToolTip": "StudentPortalWeb\\Models\\StudentPortalContext.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T11:56:14.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\appsettings.json",
+              "ToolTip": "E:\\courses\\back-End_iti\\day 15\\Session_15_ASP_NET_MVC_Overview_DI\\Application\\StudentPortalWeb\\appsettings.json",
+              "RelativeToolTip": "StudentPortalWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-03T11:55:46.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
