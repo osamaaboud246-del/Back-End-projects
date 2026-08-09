@@ -1,0 +1,32 @@
+@* LAB 18 — Lab ID: 07 | CHIP_YEAR = 4 | CHIP_LABEL = Final *@
+@* Model means one Student here because the partial renders a single row in a loop, whereas Index.cshtml receives the entire list from the controller. *@
+@* If you write <partial name="_StudentRow" /> without the model attribute, it throws an InvalidOperationException because the partial expects a Student model but inherently receives the parent view's model (List<Student>), causing a type mismatch. *@
+
+@model StudentPortalWeb.Models.Student
+
+<tr>
+    <td>
+        @Model.FullName
+    </td>
+    <td>
+        <year-chip for="@Model.YearOfStudy" />
+    </td>
+    <td>
+        <gpa-badge for="@Model.Gpa" />
+    </td>
+    <td>
+        <a asp-controller="Students" asp-action="Details" asp-route-id="@Model.Id" class="btn btn-sm btn-outline-primary">Details</a>
+    </td>
+</tr>
+
+@*
+WHAT THE BROWSER RECEIVED:
+<span class="badge bg-warning text-dark" title="rendered by osama">Final</span>
+
+Symptoms:
+(a) Removed @addTagHelper: The browser received the raw <year-chip for="4"></year-chip> tag exactly as written, unrecognized by HTML.
+(b) Removed TagMode line: The browser received the output inside an empty <year-chip> element, because it didn't know to replace the tag itself.
+(c) Renamed to yearchip (no hyphen): Razor ignored the tag helper completely because custom tag helpers in ASP.NET Core require at least one hyphen to be recognized.
+
+Commonality: All three failures are silent (no exceptions thrown during compilation or runtime); they simply fail to process the tag helper and push raw/broken HTML to the browser.
+*@

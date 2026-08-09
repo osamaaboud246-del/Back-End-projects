@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\courses\\back-End_iti\\day18\\Session_18_Views\\Application\\StudentPortalWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\day18\\session_18_views\\application\\studentportalweb\\views\\students\\searching.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:views\\students\\searching.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\day18\\session_18_views\\application\\studentportalweb\\views\\shared\\_studentcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:views\\shared\\_studentcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\day18\\session_18_views\\application\\studentportalweb\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\day18\\session_18_views\\application\\studentportalweb\\taghelpers\\yearchiptaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:taghelpers\\yearchiptaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\day18\\session_18_views\\application\\studentportalweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\day18\\session_18_views\\application\\studentportalweb\\reflection_18.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:reflection_18.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\day18\\session_18_views\\application\\studentportalweb\\views\\students\\byyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:views\\students\\byyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\day18\\session_18_views\\application\\studentportalweb\\views\\students\\honours.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:views\\students\\honours.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\day18\\session_18_views\\application\\studentportalweb\\views\\shared\\_studentrow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:views\\shared\\_studentrow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reflection_18.md",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day18\\Session_18_Views\\Application\\StudentPortalWeb\\Reflection_18.md",
+              "RelativeDocumentMoniker": "Reflection_18.md",
+              "ToolTip": "E:\\courses\\back-End_iti\\day18\\Session_18_Views\\Application\\StudentPortalWeb\\Reflection_18.md",
+              "RelativeToolTip": "Reflection_18.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-08-09T12:58:54.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day18\\Session_18_Views\\Application\\StudentPortalWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\courses\\back-End_iti\\day18\\Session_18_Views\\Application\\StudentPortalWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T12:57:34.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YearChipTagHelper.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day18\\Session_18_Views\\Application\\StudentPortalWeb\\TagHelpers\\YearChipTagHelper.cs",
+              "RelativeDocumentMoniker": "TagHelpers\\YearChipTagHelper.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\day18\\Session_18_Views\\Application\\StudentPortalWeb\\TagHelpers\\YearChipTagHelper.cs",
+              "RelativeToolTip": "TagHelpers\\YearChipTagHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T12:56:18.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day18\\Session_18_Views\\Application\\StudentPortalWeb\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Details.cshtml",
+              "ToolTip": "E:\\courses\\back-End_iti\\day18\\Session_18_Views\\Application\\StudentPortalWeb\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "Views\\Students\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T12:52:57.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_StudentCard.cshtml",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day18\\Session_18_Views\\Application\\StudentPortalWeb\\Views\\Shared\\_StudentCard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_StudentCard.cshtml",
+              "ToolTip": "E:\\courses\\back-End_iti\\day18\\Session_18_Views\\Application\\StudentPortalWeb\\Views\\Shared\\_StudentCard.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_StudentCard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T12:52:13.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Searching.cshtml",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day18\\Session_18_Views\\Application\\StudentPortalWeb\\Views\\Students\\Searching.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Searching.cshtml",
+              "ToolTip": "E:\\courses\\back-End_iti\\day18\\Session_18_Views\\Application\\StudentPortalWeb\\Views\\Students\\Searching.cshtml",
+              "RelativeToolTip": "Views\\Students\\Searching.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T12:48:24.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Honours.cshtml",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day18\\Session_18_Views\\Application\\StudentPortalWeb\\Views\\Students\\Honours.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Honours.cshtml",
+              "ToolTip": "E:\\courses\\back-End_iti\\day18\\Session_18_Views\\Application\\StudentPortalWeb\\Views\\Students\\Honours.cshtml",
+              "RelativeToolTip": "Views\\Students\\Honours.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T12:47:54.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ByYear.cshtml",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day18\\Session_18_Views\\Application\\StudentPortalWeb\\Views\\Students\\ByYear.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\ByYear.cshtml",
+              "ToolTip": "E:\\courses\\back-End_iti\\day18\\Session_18_Views\\Application\\StudentPortalWeb\\Views\\Students\\ByYear.cshtml",
+              "RelativeToolTip": "Views\\Students\\ByYear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T12:47:24.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_StudentRow.cshtml",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day18\\Session_18_Views\\Application\\StudentPortalWeb\\Views\\Shared\\_StudentRow.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_StudentRow.cshtml",
+              "ToolTip": "E:\\courses\\back-End_iti\\day18\\Session_18_Views\\Application\\StudentPortalWeb\\Views\\Shared\\_StudentRow.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_StudentRow.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T12:46:10.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
