@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\courses\\back-End_iti\\Lab 20\\Session_20_Razor_Pages\\Application\\StudentPortalWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\lab 20\\session_20_razor_pages\\application\\studentportalweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\lab 20\\session_20_razor_pages\\application\\studentportalweb\\pages\\roster\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:pages\\roster\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\lab 20\\session_20_razor_pages\\application\\studentportalweb\\pages\\roster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:pages\\roster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\lab 20\\session_20_razor_pages\\application\\studentportalweb\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\lab 20\\session_20_razor_pages\\application\\studentportalweb\\pages\\roster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:pages\\roster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\Lab 20\\Session_20_Razor_Pages\\Application\\StudentPortalWeb\\Pages\\Roster\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Roster\\Create.cshtml.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\Lab 20\\Session_20_Razor_Pages\\Application\\StudentPortalWeb\\Pages\\Roster\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Roster\\Create.cshtml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T01:14:24.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\Lab 20\\Session_20_Razor_Pages\\Application\\StudentPortalWeb\\Pages\\Roster\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Roster\\Create.cshtml",
+              "ToolTip": "E:\\courses\\back-End_iti\\Lab 20\\Session_20_Razor_Pages\\Application\\StudentPortalWeb\\Pages\\Roster\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Roster\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-10T01:14:07.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\Lab 20\\Session_20_Razor_Pages\\Application\\StudentPortalWeb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\Lab 20\\Session_20_Razor_Pages\\Application\\StudentPortalWeb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T01:06:45.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\Lab 20\\Session_20_Razor_Pages\\Application\\StudentPortalWeb\\Pages\\Roster\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Roster\\Index.cshtml",
+              "ToolTip": "E:\\courses\\back-End_iti\\Lab 20\\Session_20_Razor_Pages\\Application\\StudentPortalWeb\\Pages\\Roster\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Roster\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T22:19:09.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\Lab 20\\Session_20_Razor_Pages\\Application\\StudentPortalWeb\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Create.cshtml",
+              "ToolTip": "E:\\courses\\back-End_iti\\Lab 20\\Session_20_Razor_Pages\\Application\\StudentPortalWeb\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwDEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T22:14:58.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

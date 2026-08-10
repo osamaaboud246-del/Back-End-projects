@@ -1,0 +1,14 @@
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\README_STATIC_ASSETS.txt
+E:\courses\back-End_iti\Lab 20\Session_20_Razor_Pages\Application\StudentPortalWeb\wwwroot\css\site.css
+E:\courses\back-End_iti\Lab 20\Session_20_Razor_Pages\Application\StudentPortalWeb\wwwroot\favicon.ico
+E:\courses\back-End_iti\Lab 20\Session_20_Razor_Pages\Application\StudentPortalWeb\wwwroot\js\site.js
+E:\courses\back-End_iti\Lab 20\Session_20_Razor_Pages\Application\StudentPortalWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+E:\courses\back-End_iti\Lab 20\Session_20_Razor_Pages\Application\StudentPortalWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+E:\courses\back-End_iti\Lab 20\Session_20_Razor_Pages\Application\StudentPortalWeb\wwwroot\lib\jquery\dist\jquery.min.js
+E:\courses\back-End_iti\Lab 20\Session_20_Razor_Pages\Application\StudentPortalWeb\wwwroot\README_STATIC_ASSETS.txt
