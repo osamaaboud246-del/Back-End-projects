@@ -1,9 +1,9 @@
-# Reflection 19 — Osama Aboud (Lab ID: 07)
+# Reflection 19 — Osama Aboud (Lab ID: 29)
 
 1. Values:
-   - Lab ID: 7
-   - MIN_GRADE_LAB: 1.0 + (7 mod 4) * 0.5 = 1.0 + (3 * 0.5) = 2.5
-   - COURSE_COUNT: (7 mod 3) + 2 = 1 + 2 = 3
+   - Lab ID: 29
+   - MIN_GRADE_LAB: 1.0 + (29 mod 4) * 0.5 = 1.0 + (1 * 0.5) = 1.5
+   - COURSE_COUNT: (29 mod 3) + 2 = 2 + 2 = 4
 
 2. Three places data can be rejected:
    - Client-side validation (HTML5 / validation scripts in the browser).
