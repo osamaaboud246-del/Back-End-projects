@@ -1,4 +1,4 @@
-// Lab ID: 7
+// Lab ID: 29
 // Name: Osama Aboud
 
 // Part B: Predict-the-Output Drills
@@ -43,22 +43,22 @@ namespace StudentPortalConsole
         }
 
         // Part C: Protected Helper Method
-        // Lab ID: 7
-        // Arithmetic: (7 mod 3) + 2 -> 1 + 2 -> 3 letters
+        // Lab ID: 29
+        // Arithmetic: (29 mod 3) + 2 -> 2 + 2 -> 4 letters
         // Why protected: FormatTag is protected so derived classes (Student, Instructor, Admin) can reuse it directly, whereas private would prevent inherited access and public would break encapsulation by exposing formatting logic to outside classes.
         protected string FormatTag()
         {
             if (string.IsNullOrWhiteSpace(fullName))
             {
-                return "TAG";
+                return "TAGG";
             }
 
             string clean = fullName.Replace(" ", "");
-            if (clean.Length >= 3)
+            if (clean.Length >= 4)
             {
-                return clean.Substring(0, 3).ToUpper();
+                return clean.Substring(0, 4).ToUpper();
             }
-            return clean.PadRight(3, 'X').ToUpper();
+            return clean.PadRight(4, 'X').ToUpper();
         }
     }
 
@@ -146,14 +146,14 @@ namespace StudentPortalConsole
         private int accessLevel = 1;
         private AdminBadge badge; // Composition: Admin owns its AdminBadge
 
-        // Lab ID: 7
-        // Valid Range: 1 to (7 mod 3) + 2 -> 1 to 3
+        // Lab ID: 29
+        // Valid Range: 1 to (29 mod 3) + 2 -> 1 to 4
         public int AccessLevel
         {
             get { return accessLevel; }
             set
             {
-                if (value >= 1 && value <= 3)
+                if (value >= 1 && value <= 4)
                 {
                     accessLevel = value;
                 }
@@ -198,7 +198,7 @@ namespace StudentPortalConsole
         static void Main(string[] args)
         {
             // Adding initial objects including myself as an Admin
-            people.Add(new Admin("Osama Aboud", 3));
+            people.Add(new Admin("Osama Aboud", 4));
             people.Add(new Student("Omar Tarek", 2, 3.5));
             people.Add(new Instructor("Dr. Khaled", 10));
 
@@ -282,7 +282,7 @@ namespace StudentPortalConsole
             Console.Write("Enter Admin Full Name: ");
             string name = Console.ReadLine() ?? "Unknown";
 
-            Console.Write("Enter Access Level (1-3): ");
+            Console.Write("Enter Access Level (1-4): ");
             int.TryParse(Console.ReadLine(), out int level);
 
             people.Add(new Admin(name, level));
@@ -346,7 +346,7 @@ namespace StudentPortalConsole
 /*
 Part F: Wrap-Up Reflection
 
-For my Lab ID 7, my FormatTag length is 3 letters and my Admin access-level range is 1 to 3.
+For my Lab ID 29, my FormatTag length is 4 letters and my Admin access-level range is 1 to 4.
 Inheritance establishes an "is-a" relationship where Admin is-a Person, allowing Admin to inherit the shared fullName property and FormatTag() helper without duplicating code.
 Association exists between Instructor and Course, where an Instructor references an assigned course name without owning the course lifecycle.
 Aggregation is demonstrated by Course holding a List<Student>, where students are shared objects that continue to exist independently even if the course is deleted.
