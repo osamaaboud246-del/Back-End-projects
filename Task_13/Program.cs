@@ -150,7 +150,7 @@ Part F:
 - Database does not exist before Update-Database command.
 
 Part G:
-- Added property CreditsCompleted for Lab ID 7.
+- Added property CreditsCompleted for Lab ID 29.
 - Up operation adds column to existing table.
 - 4 rows preserved in SSMS.
 
