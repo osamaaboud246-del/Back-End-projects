@@ -1,5 +1,4 @@
-
-// Lab ID: 7
+// Lab ID: 29
 // Name: Osama Aboud
 // Lab 11 — Abstraction + Interfaces + OOP Capstone
 
@@ -46,13 +45,13 @@ namespace StudentPortalConsole
         public abstract string GetRoleDescription();
 
         // Protected Helper Method from Lab 10
-        // Lab ID: 7 -> (7 mod 3) + 2 = 3 letters
+        // Lab ID: 29 -> (29 mod 3) + 2 = 4 letters
         protected string FormatTag()
         {
-            if (string.IsNullOrWhiteSpace(fullName)) return "TAG";
+            if (string.IsNullOrWhiteSpace(fullName)) return "TAGG";
             string clean = fullName.Replace(" ", "");
-            if (clean.Length >= 3) return clean.Substring(0, 3).ToUpper();
-            return clean.PadRight(3, 'X').ToUpper();
+            if (clean.Length >= 4) return clean.Substring(0, 4).ToUpper();
+            return clean.PadRight(4, 'X').ToUpper();
         }
     }
 
@@ -164,7 +163,7 @@ namespace StudentPortalConsole
     // Part E: Admin Class implementing Person, IPrintable, and IRankable
     public class Admin : Person, IPrintable, IRankable
     {
-        // Lab ID: 7 -> Range: 1 to (7 mod 3) + 2 -> 1 to 3
+        // Lab ID: 29 -> Range: 1 to (29 mod 3) + 2 -> 1 to 4
         private int accessLevel = 1;
 
         public int AccessLevel
@@ -172,7 +171,7 @@ namespace StudentPortalConsole
             get { return accessLevel; }
             set
             {
-                if (value >= 1 && value <= 3)
+                if (value >= 1 && value <= 4)
                 {
                     accessLevel = value;
                 }
@@ -202,10 +201,10 @@ namespace StudentPortalConsole
         }
 
         // Part E4: Implementation of IRankable
-        // Lab ID 7: (7 mod 4) + 1 = 4
+        // Lab ID 29: (29 mod 4) + 1 = 2
         public int GetRankScore()
         {
-            return 4; // (7 mod 4) + 1 = 4
+            return 2;
         }
     }
 
@@ -217,8 +216,8 @@ namespace StudentPortalConsole
 
         static void Main(string[] args)
         {
-            // Seed data using student's own name for Admin
-            Admin adminMe = new Admin("Osama Aboud", 3);
+            // Seed data using student's own name for Admin, Access level up to 4 now
+            Admin adminMe = new Admin("Osama Aboud", 4);
             Student s1 = new Student("Omar Tarek", 2, 3.5);
             Instructor i1 = new Instructor("Dr. Khaled", 10);
             Course c1 = new Course("Web Development .NET");
@@ -331,9 +330,9 @@ Meow
 /*
 Part G — Wrap-Up Reflection
 
-1. Personal Lab ID: 7
-   - Admin AccessLevel range arithmetic: (7 mod 3) + 2 = 1 + 2 = 3. Range is 1 to 3.
-   - Admin GetRankScore result arithmetic: (7 mod 4) + 1 = 3 + 1 = 4. Result is 4.
+1. Personal Lab ID: 29
+   - Admin AccessLevel range arithmetic: (29 mod 3) + 2 = 2 + 2 = 4. Range is 1 to 4.
+   - Admin GetRankScore result arithmetic: (29 mod 4) + 1 = 1 + 1 = 2. Result is 2.
 
 2. Course implementing IPrintable is valid because an interface defines a capability ("what an object can do") rather than an identity ("what an object is"). Course is not a Person, but it has printable details, so implementing IPrintable allows it to be treated as printable alongside Persons without inheriting from Person.
 
