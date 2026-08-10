@@ -1,9 +1,9 @@
-# Reflection 18 — Osama Aboud (Lab ID: 07)
+# Reflection 18 — Osama Aboud (Lab ID: 29)
 
 1. Values:
-- Lab ID = 7
-- CHIP_YEAR = (7 mod 4) + 1 = 3 + 1 = 4
-- CHIP_LABEL = Since CHIP_YEAR is 4, it is "Final".
+- Lab ID = 29
+- CHIP_YEAR = (29 mod 4) + 1 = 1 + 1 = 2
+- CHIP_LABEL = Since CHIP_YEAR is 2, it is "Second".
 
 2. In Session 15, the database connection string was hardcoded directly inside `OnConfiguring` in the `DbContext`.
    We fixed it by moving the connection string to `appsettings.json` and injecting it via Dependency Injection in `Program.cs`, 
