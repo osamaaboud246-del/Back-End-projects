@@ -13,8 +13,8 @@ namespace StudentPortalWeb
             builder.Services.AddDbContext<StudentPortalContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-            // Lifetime for Lab ID 07: Scoped
-            builder.Services.AddScoped<IOsamaStampService, OsamaStampService>();
+            // Lifetime for Lab ID 29: Singleton
+            builder.Services.AddSingleton<IOsamaStampService, OsamaStampService>();
 
             builder.Services.AddControllersWithViews();
 
@@ -25,7 +25,7 @@ namespace StudentPortalWeb
                 var path = context.Request.Path.Value;
                 Console.WriteLine($"[START] {path}");
 
-                if (path != null && path.Contains("/audit-07"))
+                if (path != null && path.Contains("/audit-29"))
                 {
                     Console.WriteLine($"[AUDIT] Osama Aboud saw a request for {path}");
                 }
