@@ -155,7 +155,7 @@ Part G:
 - 4 rows preserved in SSMS.
 
 Part I Reflection:
-1. Lab ID 7 parameters: GPA threshold 3.4, experience 5, property CreditsCompleted.
+1. Lab ID 29 parameters: GPA threshold 3.4, experience 5, property CreditsCompleted.
 2. Silent join failure drops missing records without alert.
 3. Separation of Add-Migration and Update-Database allows review before changing database.
 4. Database LINQ translates code to SQL. Deferred execution avoids extra network requests.
