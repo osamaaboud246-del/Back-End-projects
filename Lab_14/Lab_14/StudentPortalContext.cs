@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using System;
 
@@ -13,7 +13,7 @@ namespace StudentPortalConsole
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder
-                .UseSqlServer("Server=.;Database=ITI_StudentPortalDB_EF;Trusted_Connection=True;TrustServerCertificate=True;")
+                .UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=ITI_StudentPortalDB_EF;Trusted_Connection=True;TrustServerCertificate=True;")
                 .LogTo(Console.WriteLine, LogLevel.Information); 
         }
 
@@ -25,7 +25,7 @@ namespace StudentPortalConsole
                 .IsRequired()
                 .HasMaxLength(100);
 
-            // Part E: SetNull Relationship for Lab ID 7 (7 % 2 = 1)
+            // Part E: SetNull Relationship for Lab ID 29 (29 % 2 = 1)
             modelBuilder.Entity<Course>()
                 .HasOne(c => c.Instructor)
                 .WithMany(i => i.Courses)
