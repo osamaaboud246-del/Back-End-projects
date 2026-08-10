@@ -1,7 +1,7 @@
 1. Lab ID & Derived Values:
-- Lab ID = 7
-- MIN_GPA_EDIT = 2.0 + (7 mod 5) * 0.3 = 2.0 + (2 * 0.3) = 2.6
-- MAX_YEAR_EDIT = (7 mod 3) + 2 = 1 + 2 = 3
+- Lab ID = 29
+- MIN_GPA_EDIT = 2.0 + (29 mod 5) * 0.3 = 2.0 + (4 * 0.3) = 3.2
+- MAX_YEAR_EDIT = (29 mod 3) + 2 = 2 + 2 = 4
 
 2. Three places bad input can be rejected:
 - Client-side validation (HTML5 / JavaScript)
