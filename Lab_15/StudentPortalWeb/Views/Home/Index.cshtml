@@ -1,0 +1,35 @@
+@model IEnumerable<StudentPortalWeb.Models.Student>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-4">
+    <h1>Student Portal — Build #149</h1>
+    
+    <div class="alert alert-info my-3">
+        <strong>Owner:</strong> @ViewBag.Owner | 
+        <strong>Stamp A:</strong> @ViewBag.StampA | 
+        <strong>Stamp B:</strong> @ViewBag.StampB
+    </div>
+
+    <table class="table table-bordered table-striped mt-3">
+        <thead class="table-dark">
+            <tr>
+                <th>Full Name</th>
+                <th>Year of Study</th>
+                <th>GPA</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var student in Model)
+            {
+                <tr>
+                    <td>@student.FullName</td>
+                    <td>@student.YearOfStudy</td>
+                    <td>@student.Gpa.ToString("F2")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

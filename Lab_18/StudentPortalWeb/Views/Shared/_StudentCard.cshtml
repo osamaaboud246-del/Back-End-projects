@@ -1,0 +1,13 @@
+﻿@* This partial and _StudentRow.cshtml are both handed one Student. A page can absolutely use both at once because they are just UI components consuming the same model data in different layouts. *@
+
+@model StudentPortalWeb.Models.Student
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">@Model.FullName</h5>
+        <p class="card-text">
+            Year: @Model.YearOfStudy <br />
+            GPA: <gpa-badge for="@Model.Gpa" />
+        </p>
+    </div>
+</div>
