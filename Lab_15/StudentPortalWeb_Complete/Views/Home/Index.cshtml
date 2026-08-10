@@ -1,0 +1,51 @@
+@*
+    Views/Home/Index.cshtml — COMPLETE / FALLBACK VERSION (Rule 20)
+    Session 15 — Block 3, TODO 7
+
+    TODO 7 (done). @model declares what this view was handed. The
+    controller passed a List<Student>; this line is the view saying so
+    out loud, which is what makes @Model strongly typed and gives you
+    IntelliSense and compile-time errors instead of runtime surprises.
+
+    Views are Session 18's topic. This is the minimum Razor needed to
+    prove today's chain reached the database.
+*@
+@model List<StudentPortalWeb_Complete.Models.Student>
+
+@{
+    ViewData["Title"] = "Student Portal — Home";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Student Portal</h1>
+    <p class="lead">
+        Every row below travelled from SQL Server, through Entity Framework,
+        into a controller that never called <code>new</code>.
+    </p>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Full Name</th>
+            <th>Year</th>
+            <th>GPA</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.FullName</td>
+                <td>@student.YearOfStudy</td>
+                <td>@student.Gpa.ToString("F2")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p class="text-muted">
+    @Model.Count student(s) loaded. Check the console window — you should see
+    a <code>[START]</code> and <code>[END]</code> pair for this page, and
+    another pair for every CSS and JS file the browser fetched afterwards.
+</p>

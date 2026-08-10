@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\courses\\back-End_iti\\day 14\\Session_04_Complex_Queries_Views_Indexes_Joins_Aggregates\\Application\\Task_14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD55AE8C-D642-5812-437C-CF86C106EAFA}|StudentPortalConsole.csproj|e:\\courses\\back-end_iti\\day 14\\session_04_complex_queries_views_indexes_joins_aggregates\\application\\task_14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD55AE8C-D642-5812-437C-CF86C106EAFA}|StudentPortalConsole.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD55AE8C-D642-5812-437C-CF86C106EAFA}|StudentPortalConsole.csproj|e:\\courses\\back-end_iti\\day 14\\session_04_complex_queries_views_indexes_joins_aggregates\\application\\task_14\\studentportalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD55AE8C-D642-5812-437C-CF86C106EAFA}|StudentPortalConsole.csproj|solutionrelative:studentportalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD55AE8C-D642-5812-437C-CF86C106EAFA}|StudentPortalConsole.csproj|e:\\courses\\back-end_iti\\day 14\\session_04_complex_queries_views_indexes_joins_aggregates\\application\\task_14\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD55AE8C-D642-5812-437C-CF86C106EAFA}|StudentPortalConsole.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\courses\\back-End_iti\\day 14\\Session_04_Complex_Queries_Views_Indexes_Joins_Aggregates\\Application\\Task_14\\Migrations\\20260803080137_AddInstructorCourseRelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260803080137_AddInstructorCourseRelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\courses\\back-End_iti\\day 14\\Session_04_Complex_Queries_Views_Indexes_Joins_Aggregates\\Application\\Task_14\\Migrations\\20260803080103_AddStudentConstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260803080103_AddStudentConstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD55AE8C-D642-5812-437C-CF86C106EAFA}|StudentPortalConsole.csproj|e:\\courses\\back-end_iti\\day 14\\session_04_complex_queries_views_indexes_joins_aggregates\\application\\task_14\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD55AE8C-D642-5812-437C-CF86C106EAFA}|StudentPortalConsole.csproj|solutionrelative:instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD55AE8C-D642-5812-437C-CF86C106EAFA}|StudentPortalConsole.csproj|e:\\courses\\back-end_iti\\day 14\\session_04_complex_queries_views_indexes_joins_aggregates\\application\\task_14\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD55AE8C-D642-5812-437C-CF86C106EAFA}|StudentPortalConsole.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260803080137_AddInstructorCourseRelationship.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day 14\\Session_04_Complex_Queries_Views_Indexes_Joins_Aggregates\\Application\\Task_14\\Migrations\\20260803080137_AddInstructorCourseRelationship.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260803080137_AddInstructorCourseRelationship.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\day 14\\Session_04_Complex_Queries_Views_Indexes_Joins_Aggregates\\Application\\Task_14\\Migrations\\20260803080137_AddInstructorCourseRelationship.cs",
+              "RelativeToolTip": "Migrations\\20260803080137_AddInstructorCourseRelationship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T08:01:37.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260803080103_AddStudentConstraints.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day 14\\Session_04_Complex_Queries_Views_Indexes_Joins_Aggregates\\Application\\Task_14\\Migrations\\20260803080103_AddStudentConstraints.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260803080103_AddStudentConstraints.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\day 14\\Session_04_Complex_Queries_Views_Indexes_Joins_Aggregates\\Application\\Task_14\\Migrations\\20260803080103_AddStudentConstraints.cs",
+              "RelativeToolTip": "Migrations\\20260803080103_AddStudentConstraints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T08:01:03.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day 14\\Session_04_Complex_Queries_Views_Indexes_Joins_Aggregates\\Application\\Task_14\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\day 14\\Session_04_Complex_Queries_Views_Indexes_Joins_Aggregates\\Application\\Task_14\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T07:59:54.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentPortalContext.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day 14\\Session_04_Complex_Queries_Views_Indexes_Joins_Aggregates\\Application\\Task_14\\StudentPortalContext.cs",
+              "RelativeDocumentMoniker": "StudentPortalContext.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\day 14\\Session_04_Complex_Queries_Views_Indexes_Joins_Aggregates\\Application\\Task_14\\StudentPortalContext.cs",
+              "RelativeToolTip": "StudentPortalContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T07:58:08.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day 14\\Session_04_Complex_Queries_Views_Indexes_Joins_Aggregates\\Application\\Task_14\\Course.cs",
+              "RelativeDocumentMoniker": "Course.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\day 14\\Session_04_Complex_Queries_Views_Indexes_Joins_Aggregates\\Application\\Task_14\\Course.cs",
+              "RelativeToolTip": "Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T07:57:23.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day 14\\Session_04_Complex_Queries_Views_Indexes_Joins_Aggregates\\Application\\Task_14\\Instructor.cs",
+              "RelativeDocumentMoniker": "Instructor.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\day 14\\Session_04_Complex_Queries_Views_Indexes_Joins_Aggregates\\Application\\Task_14\\Instructor.cs",
+              "RelativeToolTip": "Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T07:57:39.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day 14\\Session_04_Complex_Queries_Views_Indexes_Joins_Aggregates\\Application\\Task_14\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\day 14\\Session_04_Complex_Queries_Views_Indexes_Joins_Aggregates\\Application\\Task_14\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T08:29:48.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

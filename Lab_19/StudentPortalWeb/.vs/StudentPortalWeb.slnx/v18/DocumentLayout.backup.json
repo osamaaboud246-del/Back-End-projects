@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\courses\\back-End_iti\\day19\\Session_19_Models\\Application\\StudentPortalWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\day19\\session_19_models\\application\\studentportalweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\day19\\session_19_models\\application\\studentportalweb\\migrations\\20260809145448_setupv2database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:migrations\\20260809145448_setupv2database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\day19\\session_19_models\\application\\studentportalweb\\migrations\\20260809141959_addenrollmenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:migrations\\20260809141959_addenrollmenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\day19\\session_19_models\\application\\studentportalweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\day19\\session_19_models\\application\\studentportalweb\\models\\studentportalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:models\\studentportalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\day19\\session_19_models\\application\\studentportalweb\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|e:\\courses\\back-end_iti\\day19\\session_19_models\\application\\studentportalweb\\reflection_19.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A4E33736-49BB-EC9F-8092-D43FA3CB1DE1}|StudentPortalWeb.csproj|solutionrelative:reflection_19.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260809145448_SetupV2Database.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day19\\Session_19_Models\\Application\\StudentPortalWeb\\Migrations\\20260809145448_SetupV2Database.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260809145448_SetupV2Database.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\day19\\Session_19_Models\\Application\\StudentPortalWeb\\Migrations\\20260809145448_SetupV2Database.cs",
+              "RelativeToolTip": "Migrations\\20260809145448_SetupV2Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T14:54:48.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260809141959_AddEnrollmentTable.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day19\\Session_19_Models\\Application\\StudentPortalWeb\\Migrations\\20260809141959_AddEnrollmentTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260809141959_AddEnrollmentTable.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\day19\\Session_19_Models\\Application\\StudentPortalWeb\\Migrations\\20260809141959_AddEnrollmentTable.cs",
+              "RelativeToolTip": "Migrations\\20260809141959_AddEnrollmentTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T14:19:59.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day19\\Session_19_Models\\Application\\StudentPortalWeb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\day19\\Session_19_Models\\Application\\StudentPortalWeb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T14:51:11.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day19\\Session_19_Models\\Application\\StudentPortalWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\courses\\back-End_iti\\day19\\Session_19_Models\\Application\\StudentPortalWeb\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-09T14:53:28.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentPortalContext.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day19\\Session_19_Models\\Application\\StudentPortalWeb\\Models\\StudentPortalContext.cs",
+              "RelativeDocumentMoniker": "Models\\StudentPortalContext.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\day19\\Session_19_Models\\Application\\StudentPortalWeb\\Models\\StudentPortalContext.cs",
+              "RelativeToolTip": "Models\\StudentPortalContext.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAwGEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T13:58:45.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day19\\Session_19_Models\\Application\\StudentPortalWeb\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnrollmentsController.cs",
+              "ToolTip": "E:\\courses\\back-End_iti\\day19\\Session_19_Models\\Application\\StudentPortalWeb\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "Controllers\\EnrollmentsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwC8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T13:53:35.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reflection_19.md",
+              "DocumentMoniker": "E:\\courses\\back-End_iti\\day19\\Session_19_Models\\Application\\StudentPortalWeb\\Reflection_19.md",
+              "RelativeDocumentMoniker": "Reflection_19.md",
+              "ToolTip": "E:\\courses\\back-End_iti\\day19\\Session_19_Models\\Application\\StudentPortalWeb\\Reflection_19.md",
+              "RelativeToolTip": "Reflection_19.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-08-09T14:01:28.949Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

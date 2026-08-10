@@ -1,0 +1,39 @@
+﻿@page
+@model StudentPortalWeb.Pages.Roster.CreateModel
+@{
+    ViewData["Title"] = "Add Student";
+}
+
+<h1 class="display-5">Add Student</h1>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <div class="mb-3">
+                <label asp-for="Student.FullName" class="form-label"></label>
+                <input asp-for="Student.FullName" class="form-control" />
+                <span asp-validation-for="Student.FullName" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Student.YearOfStudy" class="form-label"></label>
+                <input asp-for="Student.YearOfStudy" class="form-control" />
+                <span asp-validation-for="Student.YearOfStudy" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Student.Gpa" class="form-label"></label>
+                <input asp-for="Student.Gpa" class="form-control" />
+                <span asp-validation-for="Student.Gpa" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <button type="submit" class="btn btn-primary">Save</button>
+                <a asp-page="./Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
